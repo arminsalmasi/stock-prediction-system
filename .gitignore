@@ -77,3 +77,6 @@ Thumbs.db
 *.jpg
 *.jpeg
 *.svg
+
+# Backups
+*.bak
