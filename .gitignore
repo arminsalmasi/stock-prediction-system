@@ -80,3 +80,7 @@ Thumbs.db
 
 # Backups
 *.bak
+
+# Experiment Results
+*.csv
+experiment_plots/
